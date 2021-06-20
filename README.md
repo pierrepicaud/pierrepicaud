@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking for an internship
 - 📫 How to reach me:
-- - Telegram: @wasserbar
-- - Email: duthamlieu@gmail.com
+  - Telegram: @wasserbar
+  - Email: duthamlieu@gmail.com
 
 <!---
 pierrepicaud/pierrepicaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
