@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pierrepicaud
 - 👀 I’m interested in biogerontology, data science, and software engineering.
-- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking for an internship
 - 📫 How to reach me:
   - Telegram: @wasserbar
