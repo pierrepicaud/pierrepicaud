@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pierrepicaud
-- 👀 I’m interested in biogerontology, data science, and software engineering.
-- 📫 How to reach me:
-  - Telegram: @wasserbar
+👋 Hi, I’m @pierrepicaud
+👀 I’m interested in biogerontology, data science, and software engineering.
+📫 How to reach me:
+  - Telegram: @niuzi
   - Email: duthamlieu@gmail.com
 
 <!---
