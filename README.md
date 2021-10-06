@@ -1,4 +1,4 @@
-👋 Hi, I’m @pierrepicaud, [My CV](https://drive.google.com/file/d/1XKXcJOrfsRcaGKFD0amHwS8D3dl4JOy4/view?usp=sharing)
+👋 Hi, I’m @pierrepicaud, here is [my CV](https://drive.google.com/file/d/1XKXcJOrfsRcaGKFD0amHwS8D3dl4JOy4/view?usp=sharing)
 
 
 📫 How to reach me:
