@@ -3,7 +3,7 @@
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
-  - Telegram: @niuzi97
+  - Telegram: @ovo_the_real
   - Email: duthamlieu@gmail.com
 
 <!---
