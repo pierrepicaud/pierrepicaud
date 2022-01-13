@@ -1,5 +1,7 @@
 👋 Hi, I’m @pierrepicaud and currently I am doing: A Devops Intership
 
+I speak: 🇻🇳🇬🇧🇨🇳
+
 Here is my:
 - [CV (updated August 2021)](https://drive.google.com/file/d/1XKXcJOrfsRcaGKFD0amHwS8D3dl4JOy4/view?usp=sharing)
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
