@@ -1,5 +1,4 @@
-👋 Hi, I’m @pierrepicaud
-Currently I am doing: A Devops Intership
+👋 Hi, I’m @pierrepicaud and currently I am doing: A Devops Intership
 
 Here is my:
 - [CV (updated August 2021)](https://drive.google.com/file/d/1XKXcJOrfsRcaGKFD0amHwS8D3dl4JOy4/view?usp=sharing)
