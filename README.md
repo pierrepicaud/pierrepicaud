@@ -3,7 +3,7 @@
 I speak: 🇻🇳🇬🇧🇨🇳
 
 Here is my:
-- [CV (updated August 2021)](https://drive.google.com/file/d/1XKXcJOrfsRcaGKFD0amHwS8D3dl4JOy4/view?usp=sharing)
+- [CV (updated Feb 2022)](https://github.com/pierrepicaud/resume/blob/main/resume.pdf)
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
