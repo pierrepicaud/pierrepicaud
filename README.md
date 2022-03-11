@@ -1,4 +1,4 @@
-👋 Hi, I’m @pierrepicaud and currently I am doing: A Devops Intership
+👋 Hi, I’m @pierrepicaud and currently I am doing: ~~A Devops Intership~~
 
 I speak: 🇻🇳🇬🇧🇨🇳
 
