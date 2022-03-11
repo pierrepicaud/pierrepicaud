@@ -7,7 +7,7 @@ Here is my:
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
-  - Telegram: [@ovo_the_real](https://t.me/ovo_the_real)
+  - Telegram: [@pierre_picaud](https://t.me/pierrepicaud)
   - Email: duthamlieu@gmail.com
 
 <!---
