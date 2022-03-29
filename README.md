@@ -1,9 +1,11 @@
-👋 Hi, I’m @pierrepicaud and currently I am doing: ~~A Devops Intership~~
+👋 Hi, I’m @pierrepicaud - a CS student fascinated by biogerontology. When I’m not at the computer you might catch me in the gym or learning a foreign language.
+
+Currently I am doing: University
 
 I speak: 🇻🇳🇬🇧🇨🇳
 
 Here is my:
-- [CV (updated Feb 2022)](https://github.com/pierrepicaud/resume/blob/main/resume.pdf)
+- [CV (updated Feb 2022)](https://github.com/pierrepicaud/resume/blob/main/REAMME.md)
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
