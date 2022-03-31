@@ -9,7 +9,7 @@ Here is my:
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
-  - Telegram: [@pierre_picaud](https://t.me/pierrepicaud)
+  - Telegram: [@fluorescent_axolotl](https://t.me/fluorescent_axolotl)
   - Email: duthamlieu@gmail.com
 
 <!---
