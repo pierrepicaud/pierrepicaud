@@ -5,7 +5,7 @@ Currently I am doing: University
 I speak: 🇻🇳🇬🇧🇨🇳
 
 Here is my:
-- [CV (updated Feb 2022)](https://github.com/pierrepicaud/resume/blob/main/REAMME.md)
+- [CV (updated March 2022)](https://github.com/pierrepicaud/resume/blob/main/README.md)
 - [Letter of recommendation from Yegor Bugayenko](https://www.yegor256.com/2021/12/01/teaching.html)
 
 📫 How to reach me:
