@@ -1,6 +1,6 @@
 👋 Hi, I’m @pierrepicaud - a CS student fascinated by biogerontology. When I’m not at the computer you might catch me in the gym or learning a foreign language.
 
-Currently I am doing: University
+Currently I am doing: University + Tech Support at Soramitsu
 
 I speak: 🇻🇳🇬🇧🇨🇳
 
