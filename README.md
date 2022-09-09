@@ -2,7 +2,7 @@
 
 Currently I am doing: University + Tech Support at Soramitsu
 
-I speak: 🇻🇳🇬🇧🇨🇳
+I speak: VIE/ENG/CHI
 
 Here is my:
 - [CV (updated March 2022)](https://github.com/pierrepicaud/resume/blob/main/README.md)
