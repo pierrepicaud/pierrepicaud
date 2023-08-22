@@ -1,4 +1,4 @@
-👋 Hi, I’m @pierrepicaud - a CS student fascinated by biogerontology. When I’m not at the computer you might catch me in the gym or learning a foreign language.
+👋 Hi, I’m @pierrepicaud - a CS graduate fascinated by biogerontology. When I’m not at the computer you might catch me in the gym or learning a foreign language.
 
 Currently I am doing: Tech Support at Soramitsu
 
