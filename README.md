@@ -2,7 +2,7 @@
 
 🌟 Currently, I'm enhancing my skills in DevOps as a Tech Support at [Soramitsu](https://soramitsu.co.jp/). My journey includes experiences like being a DevOps intern at [Provectus](https://provectus.com/), a machine learning intern, and even a stint in 3D modeling.
 
-🔍 My technical expertise spans a variety of domains, making me a versatile asset in any tech team.
+🔍 I'm a quick learnedr and my technical expertise spans a variety of domains, making me a versatile asset in any tech team.
 
 🗣️ Languages I speak: Vietnamese, English, Chinese.
 
